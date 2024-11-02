@@ -1,1 +1,2 @@
 int tabuadausuario();
+int tabuas();

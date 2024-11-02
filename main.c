@@ -16,10 +16,14 @@ int main()
             break;
 
         case 2:
+            tabuas();
             break;
 
         case 3:
             return 0;
+
+        default:
+            opcao = 0;
     }
     return 0;
 }

@@ -16,4 +16,15 @@ int tabuadausuario()
     return 0;
 }
 
-
+int tabuas()
+{
+    for (int parado = 1; parado <= 10 ; ++parado)
+    {
+        printf("Tabuada do %d\n", parado);
+        for (int joaoo = 1; joaoo <= 10 ; ++joaoo)
+        {
+            printf("%d X %d = %d\n", parado, joaoo, parado * joaoo);
+        }
+    }
+    return 0;
+}
