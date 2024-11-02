@@ -1,0 +1,3 @@
+D:/Dowloads/EX_C/revisao_tabuada/tabuada/cmake-build-debug/CMakeFiles/revisao_tabuada.dir
+D:/Dowloads/EX_C/revisao_tabuada/tabuada/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Dowloads/EX_C/revisao_tabuada/tabuada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
