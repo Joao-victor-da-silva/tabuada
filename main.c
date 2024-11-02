@@ -5,7 +5,7 @@ int main()
 {
     int opcao;
 
-    printf("O que deseja fazer ?");
+    printf("\nO que deseja fazer ?\n");
     printf("\n 1. Tabuada \n 2. Todas as tabuadas \n 3. Sair\n\n");
     scanf("%d", &opcao);
 
@@ -25,5 +25,6 @@ int main()
         default:
             opcao = 0;
     }
+    main();
     return 0;
 }
